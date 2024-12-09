@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url(https://todaysparent.mblycdn.com/tp/resized/2014/12/767x431/blanket-baby-article.jpg);
+    background-size: cover;
+    background-position: center;
+    height:400px;
+    color:white;
+
+}
